@@ -36,7 +36,7 @@
 
    
 
-   ![git流程](./git.jpg)
+   ![git流程](../assets/git.jpg)
 
    
 
