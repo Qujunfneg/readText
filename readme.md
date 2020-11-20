@@ -4,4 +4,7 @@
 
 [git教程指南](https://blog.csdn.net/u011535541/article/details/83379151)
 
+`linux`[资料](https://blog.csdn.net/weixin_38407447/article/details/90581454)
+
 联系方式:353973083
+
