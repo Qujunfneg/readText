@@ -57,7 +57,7 @@ module.exports = {
         filename:'bundle.js', // 打包后的文件名称
         path:path.resolve(__dirname,'dist') // 打包路径
     },
-    modules:{
+    module:{
         rules:[
             {
                 test:/\.css$/i,
@@ -201,6 +201,7 @@ plugins:[new HtmlWebpackPlugin({title:'管理输出'})]
 
 ```javascript
 //  在每次构建前清理 /dist 文件夹
+//  npm install --save-dev clean-webpack-plugin
 ```
 
 ```javascript
